@@ -35,7 +35,7 @@ jobs:
         with:
           filename: dist/metrics.classic.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          # plugin_lines: yes
+          base: ""
           plugin_languages: yes
 
       - name: push github-contribution-grid-snake.svg to the output branch
