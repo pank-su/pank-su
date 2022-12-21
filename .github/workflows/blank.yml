@@ -35,11 +35,8 @@ jobs:
         with:
           filename: dist/metrics.classic.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, repositories
           # plugin_lines: yes
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
