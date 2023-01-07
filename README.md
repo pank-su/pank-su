@@ -4,5 +4,5 @@ My name is Pankov Vasya and I'm another enthusiast in this big world. Today I'm 
 
 ![](https://raw.githubusercontent.com/pank-su/pank-su/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pank-su/pank-su/main/dist/metrics.classic.svg" alt="Language stats"  />
+  <img src="/dist/metrics.classic.svg" alt="Language stats"  />
 </p>
