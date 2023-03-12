@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.18mb of code in 1213 edited files across 298 commits over last 91 days</small>
+                <small>estimation from 1.16mb of code in 1215 edited files across 299 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="151.87173130747703" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="151.87173130747703" y="0" width="119.17696921231509" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="271.0487005197921" y="0" width="95.93013994402239" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="366.9788404638145" y="0" width="41.07445021991203" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="408.0532906837265" y="0" width="22.992275089964014" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.04556577369056" y="0" width="13.120575769692122" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="444.16614154338265" y="0" width="10.629476209516193" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.79561775289886" y="0" width="5.204382247101159" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="138.34863478404765" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="138.34863478404765" y="0" width="123.30862154558994" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="261.65725632963756" y="0" width="99.25586629157704" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="360.91312262121465" y="0" width="42.49842793314579" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.4115505543604" y="0" width="23.851795465828232" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="427.26334602018864" y="0" width="13.776402449114679" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="441.03974846930333" y="0" width="13.575442660930003" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="454.61519113023337" y="0" width="5.3848088697666725" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -64,15 +64,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c065db" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Emacs Lisp
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TSX
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#c065db" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Emacs Lisp
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
