@@ -7,7 +7,6 @@ Young developer with experience in various fields, such as mobile development, w
 **Contact Information**
 
 - Email: pank@pank.su
-- Phone: +79627011087
 - Website: pank.su
 
 **Location**
