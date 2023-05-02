@@ -27,9 +27,6 @@
 ## Проекты
 
 - [ILoveDogs](https://github.com/vasyas-training/ILoveDogs) (Android) - Приложение для поиска и просмотра фотографий собак
-- [PocketBook](https://github.com/vasyas-training/PocketBook) (Android) - Приложение для ведения финансового учета
-- [My Weather App](https://github.com/vasyas-training/My-Weather-App) (Android) - Приложение для просмотра прогноза погоды
-- [Notebook](https://github.com/vasyas-training/Notebook) (Java) - Простое приложение для создания и сохранения заметок
 
 ## Достижения
 
