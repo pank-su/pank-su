@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.48mb of code in 1428 edited files across 277 commits over last 87 days</small>
+                <small>estimation from 2.48mb of code in 1436 edited files across 285 commits over last 88 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.2207985189155" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="150.2207985189155" y="0" width="64.39394899028038" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="214.61474750919587" y="0" width="58.16813232320772" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="272.7828798324036" y="0" width="39.03349492095199" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="311.81637475335555" y="0" width="38.35331660617281" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="350.1696913595284" y="0" width="37.224915349199776" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="387.39460670872813" y="0" width="36.344157267788844" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="423.738763976517" y="0" width="36.26123602348299" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.94329168588825" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="148.94329168588825" y="0" width="63.84633034724453" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="212.7896220331328" y="0" width="57.67345923372888" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="270.4630812668617" y="0" width="41.30246285906128" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="311.765544125923" y="0" width="38.02715255620956" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="349.79269668213254" y="0" width="37.72606399037753" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="387.51876067251004" y="0" width="36.44615982861187" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.964920501122" y="0" width="36.035079498878105" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -70,15 +70,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TeX
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TeX
                     </div>
                 </div>
             </section>
