@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.59mb of code in 862 edited files across 201 commits over last 92 days</small>
+                <small>estimation from 1.74mb of code in 893 edited files across 201 commits over last 93 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.7885730785012" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="237.7885730785012" y="0" width="81.07106493559122" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="318.8596380140924" y="0" width="74.79360319333776" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="393.65324120743014" y="0" width="32.01878314784891" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="425.67202435527906" y="0" width="16.607078632902926" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="442.279102988182" y="0" width="13.246982184376757" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.52608517255874" y="0" width="2.439681679339044" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.96576685189774" y="0" width="2.0342331481021825" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="179.80922124874868" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="179.80922124874868" y="0" width="99.95532501054826" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="279.76454625929694" y="0" width="73.26632084915572" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="353.0308671084527" y="0" width="61.076832708710796" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="414.1076998171635" y="0" width="31.42132651626087" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.5290263334244" y="0" width="10.817552306966816" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.3465786403912" y="0" width="1.9922563351616984" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.33883497555286" y="0" width="1.661165024447147" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -37,6 +37,12 @@
                             <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dart
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PLpgSQL
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -55,12 +61,6 @@
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PLpgSQL
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
