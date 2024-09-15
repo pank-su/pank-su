@@ -16,15 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 57kb of code in 93 edited files across 28 commits over last 93 days</small>
+                <small>estimation from 55.2kb of code in 92 edited files across 26 commits over last 54 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.23560910307896" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="352.23560910307896" y="0" width="80.20749665327979" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="432.4431057563587" y="0" width="27.55689424364123" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.6813812744749" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="374.6813812744749" y="0" width="85.3186187255251" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -38,12 +37,6 @@
                             <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Batchfile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c065db" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Emacs Lisp
                     </div>
                 </div>
             </section>
