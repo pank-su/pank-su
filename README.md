@@ -1,5 +1,22 @@
+ # Welcome to my github
 
-![](https://raw.githubusercontent.com/pank-su/pank-su/output/github-contribution-grid-snake.svg)
-<p align="center">
-  <img src="/dist/metrics.classic.svg" alt="Language stats"  />
-</p>
+![](nick.png)
+
+```kotlin
+val `pank-su` = developer{
+    about{
+      name = "Pankov Vasya"
+      lang = Language.ru
+    }
+    skills {
+        primary = "Kotlin"
+        others = listOf("Cross-Platform Development", "UI/UX Design")
+    }
+    works{
+        work{
+          name = "Valdai Robots"
+          duration = 6.mounths
+        }
+    }
+}
+```
