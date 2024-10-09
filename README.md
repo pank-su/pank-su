@@ -13,7 +13,7 @@ val `pank-su` = developer{
     works{
         work{
           name = "Valdai Robots"
-          duration = 6.mounths
+          duration = 6.months
         }
     }
 }
