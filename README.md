@@ -1,5 +1,3 @@
- # Welcome to my github
-
 ![](nick.png)
 
 ```kotlin
